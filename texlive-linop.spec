@@ -1,6 +1,6 @@
 Name:		texlive-linop
 Version:	41304
-Release:	1
+Release:	2
 Summary:	Typeset linear operators as they appear in quantum theory or linear algebra
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/linop
